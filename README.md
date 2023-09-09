@@ -12,7 +12,7 @@
 ## ⚡ Projetos Destacados
 
 - Desenvolvimento de um e-commerce em Java com JSP, como parte da matéria de LES.
-- Atualmente, estou implementando um projeto pessoal de API para o desenvolvimento de uma rede social.
+- Atualmente, estou implementando um projeto pessoal de um aplicativo para gerenciamento de um jogo chamado Clash of Clans.
 
 ## 🌱 Objetivos Profissionais
 
