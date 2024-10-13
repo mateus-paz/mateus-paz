@@ -1,31 +1,11 @@
-<h1 align="center">Olá, eu sou o Mateus Paz! 👋</h1>
+# Olá, eu sou Mateus Paz 👋
 
-<p align="center">Sou um estagiário em análise e desenvolvimento de sistemas, apaixonado por criar soluções e resolver problemas de forma eficiente. Adoro aprender novas tecnologias e estou sempre em busca de aprimorar minhas habilidades.</p>
+## Sobre Mim
 
-## 💻 Habilidades Técnicas
+Atualmente atuo como Analista Desenvolvedor de Sistemas JR, com pouco mais de um ano de experiência na área. Tenho um forte interesse em desenvolvimento de software e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-- Linguagens de programação: Java, React e Vue
-- Ferramentas de desenvolvimento: Eclipse, Visual Studio Code e PgAdmin
-- Desenvolvimento web: Spring Boot, JSP, React, Vue
-- Frameworks e bibliotecas preferidos: Spring Boot, Bootstrap, Quasar, Vue, React
+### Tecnologias e Ferramentas
 
-## ⚡ Projetos Destacados
-
-- Desenvolvimento de um e-commerce em Java com JSP, como parte da matéria de LES.
-- Atualmente, estou implementando um projeto pessoal de um aplicativo para gerenciamento de um jogo chamado Clash of Clans.
-
-## 🌱 Objetivos Profissionais
-
-Estou constantemente buscando aprimorar minhas habilidades de desenvolvimento e adquirir mais conhecimento na área. Meu objetivo é me tornar um arquiteto ou engenheiro de software, contribuindo para projetos.
-
-## 🤝 Colaboração e Projetos de Código Aberto
-
-Estou aberto a colaborações e projetos de código aberto. Acredito que o trabalho em equipe e a troca de conhecimento são fundamentais para o crescimento profissional. 
-
-## 📫  Contato
-
-Se você quiser entrar em contato comigo ou saber mais, sinta-se à vontade para me encontrar nas seguintes plataformas:
-
-- E-mail: [mateuspaz.mp@gmail.com](mailto:mateuspaz.mp@gmail.com)
-- LinkedIn: [Mateus Paz](https://www.linkedin.com/in/mateus-paz-de-oliveira-8835b417/)
-- Intagram: [Mats_Pz](https://www.instagram.com/mats_pz/)
+- **Linguagens:** Java, TypeScript, JavaScript
+- **Frameworks:** Spring Boot, React, Vue, Quasar Framework
+- **Testes:** Cypress, Mockito, Jest
