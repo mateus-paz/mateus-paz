@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Atualmente atuo como Analista Desenvolvedor de Sistemas JR, com pouco mais de um ano de experiência na área. Tenho um forte interesse em desenvolvimento de software e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Atualmente atuo como Analista Desenvolvedor de Sistemas JR e tenho pouco mais de um ano de experiência na área. Tenho um forte interesse em desenvolvimento de software e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 ### Tecnologias e Ferramentas
 
